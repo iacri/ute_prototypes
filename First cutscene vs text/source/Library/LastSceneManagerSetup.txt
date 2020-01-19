@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/Press button.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Free movement.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Cutscene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
